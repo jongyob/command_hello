@@ -1,3 +1,5 @@
 println("Hello World")
 println("Hello Jongyob")
 println("Hello myName")
+plintln("Hello Jongyob")
+println("Hello Git")
